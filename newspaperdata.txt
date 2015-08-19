@@ -1,0 +1,504 @@
+name	publisher	title	coverage	subject	placeOfPublication
+sn95060906	Epitaph Print. and Pub. Co.	Tombstone weekly epitaph.	http://dbpedia.org/resource/Tombstone%2C_Arizona	Tombstone (Ariz.)--Newspapers.	Tombstone, Ariz.
+sn87075048	Brehm & White	The Ohio Democrat.	http://dbpedia.org/resource/Logan%2C_Ohio		Logan, O. [Ohio]
+sn96088466	C.H. Marsh & J.W. Connella	The Sumpter miner.	http://dbpedia.org/resource/Sumpter%2C_Oregon	Mineral industries--Oregon--Newspapers.	Sumpter, Or.
+sn82016373	T.B. Kalbfus	The Sunday herald and weekly national intelligencer.		Washington (D.C.)--Newspapers.	Washington [D.C.]
+sn83032300	Cooper, Sanderson & Co.	Lancaster daily intelligencer.	http://sws.geonames.org/5197079/	Lancaster (Pa.)--Newspapers.	Lancaster, Pa.
+2010270500	J.L. McKean.	Dakota County herald.	http://dbpedia.org/resource/Dakota_City%2C_Nebraska	Dakota City (Neb.)--Newspapers.	Dakota City, Neb.
+sn85032814	Dunn & Worcester	Thomas County cat.	http://dbpedia.org/resource/Colby%2C_Kansas		Colby, Kan.
+sn87062245	Times Co.	The Washington times.		Washington (D.C.)--Newspapers.	Washington [D.C.]
+sn94052361	James J. Nash	The Daily Tombstone.	http://sws.geonames.org/5317714/	Cochise County (Ariz.)--Newspapers.	Tombstone, Ariz.
+sn99063956	Hofer Bros.	The Daily journal.	http://sws.geonames.org/5750162/	Salem (Or.)--Newspapers.	Salem, Or.
+sn86069496	Chas. S. Harris	The Adair County news.	http://dbpedia.org/resource/Columbia%2C_Kentucky	Adair County (Ky.)--Newspapers.	Columbia, Ky.
+sn83045433	Washington Herald Co.	The Washington herald.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn92070142	Edgar F. Howe	Imperial press and farmer.	http://sws.geonames.org/5359052/	Imperial County (Calif.)--Newspapers.	Imperial, San Diego County, Cal.
+sn93067804	J. Felder Myers	Orangeburg times.	http://dbpedia.org/resource/Orangeburg%2C_South_Carolina	Orangeburg County (S.C.)--Newspapers.	Orangeburg Court House [S.C.]
+sn97070126	W.B. Stephens	Anadarko morning democrat.	http://sws.geonames.org/4529353/	Caddo County (Okla.)--Newspapers.	Anadarko, Okla.
+sn84027008	Julian A. Selby	The daily phoenix.	http://dbpedia.org/resource/Columbia%2C_South_Carolina	Richland County (S.C.)--Newspapers.	Columbia, S.C.
+sn95026697	L.H. Eldridge	The DeLand weekly news.		Volusia County (Fla.)--Newspapers.	DeLand, Fla.
+sn86069117	The Public Ledger Co.	Daily public ledger.	http://sws.geonames.org/4300152/	Mason County (Ky.)--Newspapers.	Maysville, Ky.
+sn84027004	J.A. Selby	Columbia phoenix.	http://dbpedia.org/resource/Columbia%2C_South_Carolina	Richland County (S.C.)--Newspapers.	Columbia, S.C.
+2010270510	Wessel & Dobbins	Capital city courier.	http://sws.geonames.org/5072005/	Lincoln (Neb.)--Newspapers.	Lincoln, Neb.
+sn88064069	J.B. Story, J.T. Reeves	The Bienville Democrat.	http://dbpedia.org/resource/Arcadia%2C_Louisiana		Arcadia, Bienville Parish, La.
+sn83030213	Greeley & McElrath	New-York daily tribune.		New York County (N.Y.)--Newspapers.	New-York [N.Y.]
+sn84028473	H.M. Fowler	The Mahoning dispatch.	http://dbpedia.org/resource/Canfield%2C_Ohio	Canfield (Ohio)--Newspapers.	Canfield, Mahoning County, Ohio
+sn93067790	Heyward and Beard	Orangeburg times.	http://dbpedia.org/resource/Orangeburg%2C_South_Carolina	Orangeburg County (S.C.)--Newspapers.	Orangeburg, S.C.
+sn00063676	J.C. Crome	St. Johns review.	http://sws.geonames.org/5746545/	Portland (Or.)--Newspapers.	Saint Johns, Or.
+sn84025980	Coale & Barr	The Abingdon Virginian.	http://dbpedia.org/resource/Abingdon%2C_Virginia	Abingdon (Va.)--Newspapers.	Abingdon [Va.]
+sn92070143	Edgar F. Howe	The Imperial press.	http://dbpedia.org/resource/Imperial%2C_California	San Diego County (Calif.)--Newspapers.	Imperial, Cal.
+sn87090135	J.L. Rountree	The Concordia sentinel.	http://dbpedia.org/resource/Ferriday%2C_Louisiana	Ferriday (La.)--Newspapers.	Vidalia, Concordia Parish, La.
+sn88064305	Leader Pub. Co.	The Era-leader.	http://dbpedia.org/resource/Franklinton%2C_Louisiana		Franklinton, La.
+45043535	[Benedictine Fathers of Sacred Heart Mission]	The Indian advocate.		Indians of North America--Newspapers.	[Sacred Heart, Okl.]
+sn88085190	Culver Bros.	The San Juan islander.	http://sws.geonames.org/5795104/	Friday Harbor (Wash.)--Newspapers.	Friday Harbor, Wash.
+sn85042459	J.D. Lynch	Daily Los Angeles herald.	http://dbpedia.org/resource/Los_Angeles%2C_California	Los Angeles County (Calif.)--Newspapers.	Los Angeles [Calif.]
+sn95026908	De Soto Pub. Co.	The De Soto County news.	http://dbpedia.org/resource/Arcadia%2C_Florida	De Soto County (Fla.)--Newspapers.	Arcadia, Fla.
+sn86089978	Taylor & Taylor	Jefferson jimplecute.	http://dbpedia.org/resource/Jefferson%2C_Texas	Jefferson (Tex.)--Newspapers.	Jefferson, Tex.
+sn86053573	W.J. Murtagh	National Republican.		Washington (D.C.)--Newspapers.	Washington City (D.C.)
+sn85038161	News-Herald Pub. Co.	The News-Herald.	http://dbpedia.org/resource/Hillsboro%2C_Ohio	Hillsboro (Ohio)--Newspapers.	Hillsboro, Highland Co., Ohio
+sn84027670	W.H. Johnson & M.D. Sampson	The Saline County journal.	http://dbpedia.org/resource/Salina%2C_Kansas	Saline County (Kan.)--Newspapers.	Salina, Kan.
+sn88077573	Mirror Pub. Co.	The Marion daily mirror.	http://dbpedia.org/resource/Marion%2C_Ohio		Marion, Ohio
+sn82014635	M.M. Murdock & R.P. Murdock	The Wichita daily eagle.	http://sws.geonames.org/4281730/	Sedgwick County (Kan.)--Newspapers.	Wichita, Kan.
+sn88074815	The Banner Pub. Co.	The Ocala banner.	http://dbpedia.org/resource/Ocala%2C_Florida	Ocala (Fla.)--Newspapers.	Ocala, Marion County, Fla.
+sn87062234	Stilson Hutchings	The Washington weekly post.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn88077379	[s.n.]	The labor advocate.	http://dbpedia.org/resource/Cincinnati%2C_Ohio	Labor unions--Ohio--Cincinnati--Newspapers.	Cincinnati, Ohio
+sn89066314	University Missourian Association	The daily Missourian.	http://dbpedia.org/resource/Columbia%2C_Missouri	Columbia (Mo.)--Newspapers.	Columbia, Mo.
+sn86071779	Virginian and Pilot Pub. Co.	Virginian-pilot.	http://sws.geonames.org/4776222/	Norfolk (Va.)--Newspapers.	Norfolk, Va.
+sn85052022	Shelton Saufley	The Stanford interior journal.	http://dbpedia.org/resource/Stanford%2C_Kentucky	Lincoln County (Ky.)--Newspapers.	Stanford, Ky.
+sn86053571	W.J. Murtagh & Co.	The national Republican.		Washington (D.C.)--Newspapers.	Washington City [D.C.]
+sn85058394	Union Printing Co.	The Morning examiner.	http://dbpedia.org/resource/Ogden%2C_Utah		Ogden, Utah
+sn82000195	Washington Post Co.	The Evening post.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn96087587	J.S. Soule	Farmers' champion.	http://dbpedia.org/resource/Fletcher%2C_Oklahoma	Elgin (Okla.)--Newspapers.	Elgin, Okla.
+sn88085488	Sargent & Neill	Pullman herald.	http://dbpedia.org/resource/Pullman%2C_Washington	Pullman (Wash.)--Newspapers.	Pullman, W.T. [Wash.]
+sn90059522	St. Paul Globe Print. Co.	St. Paul daily globe.	http://sws.geonames.org/5045360/	Saint Paul (Minn.)--Newspapers.	Saint Paul, Minn.
+sn86089443	Rankin & McCrimmon	Brenham weekly banner.	http://dbpedia.org/resource/Brenham%2C_Texas		Brenham, Tex.
+sn86064118	Tulsa Star Print. and Pub. Co.	The Tulsa star.	http://sws.geonames.org/4553433/	African Americans--Oklahoma--Newspapers.	Tulsa, Okla.
+sn85058258	R. Maeser	Iron County news.	http://sws.geonames.org/5536630/		Cedar City, Utah
+sn85052020	W.P. Walton	Semi-weekly interior journal.	http://dbpedia.org/resource/Stanford%2C_Kentucky	Stanford (Ky.)--Newspapers.	Stanford, Ky.
+sn87093448	H.R. Cayton	The republican.	http://dbpedia.org/resource/Seattle%2C_Washington	Seattle (Wash.)--Newspapers.	Seattle, Wash.
+sn89066316	Missouri Pub. Association	The Columbia evening Missourian.	http://dbpedia.org/resource/Columbia%2C_Missouri	Columbia (Mo.)--Newspapers.	Columbia, Mo.
+sn88085318	Colville Examiner	The Colville examiner.	http://dbpedia.org/resource/Colville%2C_Washington	Colville (Wash.)--Newspapers.	Colville, Wash.
+sn86069460	N.E. Calmes	Crittenden record-press.	http://dbpedia.org/resource/Marion%2C_Kentucky	Marion County (Ky.)--Newspapers.	Marion, Ky.
+sn86069867	Blade Pub. Co.	Blue-grass blade.	http://dbpedia.org/resource/Cincinnati%2C_Ohio	Fayette County (Ky.)--Newspapers.	Lexington, Ky.
+sn89066313	Dept. of Journalism, University of Missouri	University Missourian.	http://dbpedia.org/resource/Columbia%2C_Missouri		Columbia, Mo.
+sn84024738	J.A. Cowardin	The daily dispatch.	http://dbpedia.org/resource/Richmond%2C_Virginia	Richmond (Va.)--Newspapers.	Richmond, [Va.]
+sn83016485	Jno. Dickinson	Shreveport news.	http://dbpedia.org/resource/Shreveport%2C_Louisiana		Shreveport [La.]
+sn98047755	Washington Farmer	Washington farmer.	http://dbpedia.org/resource/Spokane%2C_Washington	Livestock--Washington (State)--Newspapers.	Spokane, Wash.
+sn90061066	J. West Goodwin	The Sedalia weekly bazoo.	http://sws.geonames.org/4408000/	Sedalia (Mo.)--Newspapers.	Sedalia, Mo.
+sn85066387	Charles M. Shortridge	The San Francisco call.	http://dbpedia.org/resource/San_Francisco%2C_California	San Francisco (Calif.)--Newspapers.	San Francisco [Calif.]
+sn86069313	Barnett & Milligan	The Hartford republican.	http://sws.geonames.org/4294195/	Hartford (Ky.)--Newspapers.	Hartford, Ky.
+sn96060683	James J. Nash	The Tombstone.	http://dbpedia.org/resource/Tombstone%2C_Arizona	Tombstone (Ariz.)--Newspapers.	Tombstone, Ariz.
+sn82015484	Sol Miller	The Weekly Kansas chief.	http://dbpedia.org/resource/Troy%2C_Kansas		Troy, Kan.
+sn87062268	Mayes & Co.	The Pensacola journal.	http://dbpedia.org/resource/Pensacola%2C_Florida	Escambia County (Fla.)--Newspapers.	Pensacola, Fla.
+sn95047406	L.C. Webb	Bradford County telegraph.	http://dbpedia.org/resource/Starke%2C_Florida	Bradford County (Fla.)--Newspapers.	Starke, Fla.
+sn86088529	Stock Journal Pub. Co.	Fort Worth weekly gazette.	http://sws.geonames.org/4691930/		Fort Worth, Tex.
+sn90059048	Edw. Kaiser & Co.	The Bemidji pioneer.	http://dbpedia.org/resource/Bemidji%2C_Minnesota	Bemidji (Minn.)--Newspapers.	Bemidji, Beltrami County, Minn.
+sn88061275	Liberty Pub. Co.	Liberty.	http://dbpedia.org/resource/La_Center%2C_Kentucky	La Center (Ky.)--Newspapers.	La Center, Ky.
+sn82016351	[Sunday Globe Pub. Co.]	The Sunday globe.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn88085460	Colfax Gazette Co.	The Colfax gazette.	http://dbpedia.org/resource/Colfax%2C_Washington	Colfax (Wash.)--Newspapers.	Colfax, Wash.
+sn87076843	Ed. L. Blue	Perrysburg journal.	http://dbpedia.org/resource/Perrysburg%2C_Ohio		Perrysburg, Wood Co., O. [Ohio]
+sn95047324	A.P. Jordan	The Punta Gorda herald.	http://dbpedia.org/resource/Punta_Gorda%2C_Florida	Punta Gorda (Fla.)--Newspapers.	Punta Gorda, Fla.
+sn83045366	Journal Print. Co.	The Minneapolis journal.	http://dbpedia.org/resource/Minneapolis%2C_Minnesota	Minneapolis (Minn.)--Newspapers.	Minneapolis, Minn.
+sn89066097	J.M. Swetnam	Weekly graphic.	http://dbpedia.org/resource/Kirksville%2C_Missouri	Adair County (Mo.)--Newspapers.	Kirksville, Adair Co., Mo.
+sn84025828	Henry F. Donovan	Chicago eagle.		Chicago (Ill.)--Newspapers.	Chicago, Ill.
+sn86090383	W.M. and H.V. Hamilton Jr.	Palestine daily herald.	http://sws.geonames.org/4717232/	Palestine (Tex.)--Newspapers.	Palestine, Tex.
+sn88084205	Pilot Pub. Co.	Panama City pilot.	http://sws.geonames.org/4167694/	Panama City (Fla.)--Newspapers.	Panama City, Washington County, Fla.
+sn87060004	Bee Pub. Co.	The bee.	http://sws.geonames.org/4290685/	Earlington (Ky.)--Newspapers.	Earlington, Ky.
+sn83025121	Published ... by J.H. Black at the Govt. Print. Off.	The Hawaiian gazette.	http://sws.geonames.org/5856195/	Honolulu (Hawaii)--Newspapers.	Honolulu [Oahu, Hawaii]
+sn82015732	[s.n.]	The Call-chronicle-examiner.	http://sws.geonames.org/5391959/	San Francisco (Calif.)--Newspapers.	San Francisco, Calif.
+sn85058398	Standard Pub. Co.	The Ogden standard.	http://dbpedia.org/resource/Ogden%2C_Utah		Ogden City, Utah
+sn96060547	W.G. Damon	Mohave County miner and our mineral wealth.	http://sws.geonames.org/5301067/	Mohave County (Ala.)--Newspapers.	Kingman, Ariz.
+sn86069124	s.n.]	Daily evening bulletin.	http://sws.geonames.org/4300152/	Maysville (Ky.)--Newspapers.	Maysville [Ky.
+sn86091038	J.L. Bartow	The Evening dispatch.	http://sws.geonames.org/5780026/		Provo, City, Utah
+sn2008058171	Washington Critic Co.	The critic.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn97070125	A.S. Roberts	Anadarko daily democrat.	http://sws.geonames.org/4529353/	Caddo County (Okla.)--Newspapers.	Anadarko, Okla.
+sn95069779	Robert Good	Western news-Democrat	http://dbpedia.org/resource/Valentine%2C_Nebraska	Valentine (Neb.)--Newspapers.	Valentine, Neb.
+sn87093039	D.H. Mayar and I.W. Laden	The Leavenworth echo.	http://dbpedia.org/resource/Leavenworth%2C_Washington	Leavenworth (Wash.)--Newspapers.	Leavenworth, Wash.
+sn86069325	[Kentucky Reporter Pub. Co.]	Kentucky reporter.	http://sws.geonames.org/4303436/	Daviess County (Ky.)--Newspapers.	Owensboro, Ky.
+sn88074143	John H. Oberly & Co.	The Cairo evening bulletin.	http://sws.geonames.org/4234985/	Cairo (Ill.)--Newspapers.	Cairo, Ill.
+sn85052023	Shelton M. Saufley	The interior journal.	http://dbpedia.org/resource/Stanford%2C_Kentucky	Lincoln County (Ky.)--Newspapers.	Stanford, Ky.
+sn84024828	A.H. Smith & Co.	Mohave County miner.		Mineral Park (Ariz.)--Newspapers.	Mineral Park, A.T. [Ariz.]
+sn83030193		The evening world.		New York County (N.Y.)--Newspapers.	New York, N.Y.
+sn87076917	Springfield Pub. Co.	Springfield daily republic.	http://sws.geonames.org/4525353/	Clark County (Ohio)--Newspapers.	Springfield, O. [Ohio]
+sn83045705	M.M. Murdock & R.P. Murdock	The daily eagle.	http://dbpedia.org/resource/Wichita%2C_Kansas	Wichita (Kan.)--Newspapers.	Wichita, Kan.
+sn86069457	R.C. Walker	Crittenden press.	http://sws.geonames.org/4299842/	Marion (Ky.)--Newspapers.	Marion, Ky.
+sn86071868	Roanoke Times Pub. Co.	The Roanoke times.	http://sws.geonames.org/4782167/	Roanoke (Va.)--Newspapers.	Roanoke, Va.
+sn85038558	A.A. Pelli, and Wm. H. Areaux	The People's vindicator.	http://dbpedia.org/resource/Natchitoches%2C_Louisiana		Natchitoches, La.
+sn85034438	Times Co.	The times.	http://sws.geonames.org/4781708/	Richmond (Va.)--Newspapers.	Richmond, Va.
+sn85052116	Sun Pub. Co.	The Paducah sun.	http://dbpedia.org/resource/Paducah%2C_Kentucky	McCracken County (Ky.)--Newspapers.	Paducah, Ky.
+sn96027111	S.W. Harmon	The Florida star.	http://dbpedia.org/resource/Cocoa%2C_Florida	Cocoa (Fla.)--Newspapers.	Titusville, Fla.
+sn83025050	Herald Pub. Co.	The Langston City herald.	http://dbpedia.org/resource/Langston%2C_Oklahoma	African Americans--Oklahoma--Guthrie--Newspapers.	Langston City, O. T. [Okla.]
+sn88064458	National Industrial Union of Forest and Lumber Workers, Southern District	The Voice of the people.	http://dbpedia.org/resource/New_Orleans%2C_Louisiana	Portland (Or.)--Newspapers.	New Orleans, La.
+sn89058426	Wilson & Reed	The St. Lucie County tribune.		Saint Lucie County (Fla.)--Newspapers.	Fort Pierce, St. Lucie County, Fla.
+sn86091040	Herald Pub. Co.	The Provo herald.	http://sws.geonames.org/5780026/		Provo City, Utah
+sn93052980	R. Webb & F.S. Briggs	Amador ledger.	http://sws.geonames.org/5360160/	Amador County (Calif.)--Newspapers.	Jackson, Amador County, Calif.
+sn86069871	Champ & Roby	The Bourbon news.	http://sws.geonames.org/4303602/	Paris (Ky.)--Newspapers.	Millersburg, Ky.
+sn85058012	J.W. Carpenter	The Union.			St. George, Utah
+sn85029094	J.W. Roberts	The independent.	http://dbpedia.org/resource/Oskaloosa%2C_Kansas		Oskaloosa, Kan.
+sn95060902	Nash & Tilden	Tombstone daily prospector.	http://sws.geonames.org/5317714/	Tombstone (Ariz.)--Newspapers.	Tombstone, Ariz.
+sn86091025	R.W. Crockett	The Sun.	http://dbpedia.org/resource/Price%2C_Utah		Price, Utah
+sn83030272	Benj. H. Day	The sun.		New York (N.Y.)--Newspapers.	New York [N.Y.]
+sn86089174	Jesse O. Wheeler	The daily herald.	http://sws.geonames.org/4676740/		Brownsville, Tex.
+sn90061416	Davenport & Dobyns	The County paper.	http://dbpedia.org/resource/Oregon%2C_Missouri		Oregon, Mo.
+sn85038119	[s.n.]	The Hocking sentinel.	http://dbpedia.org/resource/Logan%2C_Ohio		Logan, Ohio
+sn82016352	[s.n.]	Sunday morning globe.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn85034336	G.W. McCranie	The Ouachita telegraph.	http://dbpedia.org/resource/Monroe%2C_Louisiana	Monroe (La.)--Newspapers.	Monroe, La.
+sn90061417	Dobyns & Curry	The Holt County sentinel.	http://dbpedia.org/resource/Oregon%2C_Missouri		Oregon, Mo.
+sn89059303	Mattie B. McGrath	Woman's enterprise.	http://dbpedia.org/resource/Baton_Rouge%2C_Louisiana	Baton Rouge (La.)--Newspapers.	Baton Rouge, La.
+2010218520	Deseret Farmer Pub. Co.	Deseret farmer.		Agriculture--Utah.	Provo, Utah
+sn95047348	John A. Crosby	The San Mateo item.	http://dbpedia.org/resource/San_Mateo%2C_Florida	San Mateo (Putnam County, Fla.)--Newspapers.	San Mateo City, Putnam County, Fla
+sn82014760	Lewis Clephane & Co.	The national Republican.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn85052115	The Sun Pub. Co.	The Paducah weekly sun.	http://sws.geonames.org/4048662/	Paducah (Ky.)--Newspapers.	Paducah, Ky.
+sn86091037	J.H. Wallis	The Dispatch.	http://dbpedia.org/resource/Provo%2C_Utah		Provo City, Utah
+sn88064111	Chas. A. Thomas and Homer J. Mouton	The Lafayette gazette.	http://sws.geonames.org/4330145/	Lafayette (La.)--Newspapers.	Lafayette, La.
+sn95063969	Ed Boyle	The Oklahoma miner.	http://dbpedia.org/resource/Krebs%2C_Oklahoma	Krebs (Okla.)--Newspapers.	Krebs, Okla.
+sn84026994	Cathcart, McMillan & Morton	The Charleston daily news.	http://dbpedia.org/resource/Charleston%2C_South_Carolina	Charleston (S.C.)--Newspapers.	Charleston, S.C.
+sn95026788	Live Oak Pub. Co.	Live Oak daily Democrat.	http://sws.geonames.org/4162461/	Suwannee County (Fla.)--Newspapers.	Live Oak, Fla.
+sn86064205	Stock Journal Pub. Co.	Fort Worth daily gazette.	http://sws.geonames.org/4691930/	Fort Worth (Tex.)--Newspapers.	Fort Worth, Tex.
+sn82016412	J.W. Robertson	The Daily bulletin.	http://dbpedia.org/resource/Honolulu%2C_Hawaii		Honolulu [Hawaii]
+sn84037890	Jno. P. Barrett & Co.	The Hartford herald.	http://sws.geonames.org/4294195/	Hartford (Ky.)--Newspapers.	Hartford, Ky.
+sn84022097	Melton & Millican	The San Saba news.	http://dbpedia.org/resource/San_Saba%2C_Texas	San Saba (Tex.)--Newspapers.	San Saba, Tex.
+sn86063624	Journal Co.	Kansas City daily journal.	http://sws.geonames.org/4393217/	Jackson County (Mo.)--Newspapers.	Kansas City, Mo.
+2010218519	C.C. Goodwin, J.T. Goodwin	Goodwin's weekly : a thinking paper for thinking people.	http://sws.geonames.org/5780993/	Actresses--Utah.	Salt Lake City, Utah
+sn93062856	Intermountain Catholic Pub. Co.	The Intermountain Catholic.	http://dbpedia.org/resource/Salt_Lake_City%2C_Utah	Catholics--Newspapers.	Salt Lake City [Utah] ;
+sn98061398	Henry C. Reed	Imperial press.	http://sws.geonames.org/5359052/	Imperial County (Calif.)--Newspapers.	Imperial, Cal.
+sn2007058208	W.M. Likins, C.T. Likins, J. Karl Taylor	The Kentucky vindicator.	http://sws.geonames.org/4303436/	Daviess County (Ky.)--Newspapers.	Owenboro, Ky.
+sn82014381	Sacramento Pub. Co.	Sacramento daily record-union.	http://dbpedia.org/resource/Sacramento%2C_California	Sacramento County (Calif.)--Newspapers.	Sacramento [Calif.]
+sn82016353	[s.n.]	Sunday Washington globe.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn87062244	Washington Times Pub. Co.	The Washington times.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn88064459	National Industrial Union of Forest and Lumber Workers, Southern District	The Lumberjack.	http://dbpedia.org/resource/Alexandria%2C_Louisiana	Working class--United States--Periodicals.	Alexandria, La.
+sn89038091	R.A. Cassidy	The soldiers' journal.	http://sws.geonames.org/4744091/	United States--History--Civil War, 1861-1865--Newspapers.	Rendevous of Distribution, Va.
+sn86063756	Sims and Mellichamp	The times and democrat.	http://dbpedia.org/resource/Orangeburg%2C_South_Carolina	Orangeburg County (S.C.)--Newspapers.	Orangeburg, S.C.
+sn82016357	Suburban Citizen Newspaper Co.	The suburban citizen.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn83027091	Colored American Pub. Co.	The colored American.		African Americans--Washington (D.C.)--Newspapers.	Washington, D.C.
+sn94050555	R.H & J.E. Jones	The Skylight kicker.	http://dbpedia.org/resource/Flagstaff%2C_Arizona	Flagstaff (Ariz.)--Newspapers.	Flagstaff, Ariz.
+sn86099906	Jesse O. Wheeler	The Brownsville daily herald.	http://dbpedia.org/resource/Brownsville%2C_Texas		Brownsville, Tex.
+sn94056414	J.P. Israel	McCook weekly tribune	http://dbpedia.org/resource/McCook%2C_Nebraska	McCook (Neb.)--Newspapers.	McCook, Neb.
+sn86069560	Jas. Maret	The mountain signal.	http://dbpedia.org/resource/Mount_Vernon%2C_Kentucky	Rockcastle County (Ky.)--Newspapers.	Mount Vernon, Ky.
+sn95026977	H.H. McCreary	Gainesville daily sun.	http://dbpedia.org/resource/Gainesville%2C_Florida	Gainesville (Fla.)--Newspapers.	Gainesville, Fla.
+sn83045555	G.Q. Cannon	Deseret evening news.	http://dbpedia.org/resource/Salt_Lake_City%2C_Utah	Salt Lake City (Utah)--Newspapers.	Great Salt Lake City [Utah]
+sn95026787	J.E. Pound	Suwannee Democrat.	http://sws.geonames.org/4162461/	Suwannee County (Fla.)--Newspapers.	Live Oak, Fla.
+sn82014681	Published for the Saturday Press by R. Grieve	Saturday press.	http://dbpedia.org/resource/Honolulu%2C_Hawaii		Honolulu, H.I.
+sn94056415	F.M. & E.M. Kimmell	The McCook tribune	http://dbpedia.org/resource/McCook%2C_Nebraska	McCook (Neb.)--Newspapers.	McCook, Neb.
+sn86063381	Pioneer Pub. Co.	The Bemidji daily pioneer.	http://dbpedia.org/resource/Bemidji%2C_Minnesota	Bemidji (Minn.)--Newspapers.	Bemidji, Minn.
+sn86069395	Chas. M. Meacham	Hopkinsville Kentuckian.	http://dbpedia.org/resource/Hopkinsville%2C_Kentucky	Hopkinsville (Ky.)--Newspapers.	Hopkinsville, Ky.
+sn88061168	Times Prtg. Co.	The Spout Spring times.		Spout Springs (Ky.)--Newspapers.	Spout Spring[s], Ky.
+sn88064433	Lower Coast Gazette Co.	Lower coast gazette.			Pointe-a-la-Hache, La.
+sn89066651	Wm. York	The Hayti herald.	http://dbpedia.org/resource/Hayti%2C_Missouri	Pemiscot County (Mo.)--Newspapers.	Hayti, Mo.
+sn88064339	Bayou Sara Pub. Co.	The true Democrat.		Saint Francisville (La.)--Newspapers.	Bayou Sara [La.]
+sn85038570	C.W. Boyce	The Constitutional.	http://dbpedia.org/resource/Alexandria%2C_Louisiana		Alexandria, La.
+sn84029853	Globe-Republican Pub. Co.	The Globe-republican.	http://sws.geonames.org/5445298/		Dodge City, Kan.
+sn86091396	J.A. Wixom	The Garland City globe.	http://sws.geonames.org/5775081/		Garland, Utah
+sn93062854	[s.n.]	American Baptist.	http://sws.geonames.org/4299276/	Louisville (Ky.)--Newspapers.	Louisville, Ky.
+sn87060032	D. Will Clark	Mountain advocate.	http://dbpedia.org/resource/Barbourville%2C_Kentucky	Knox County (Ky.)--Newspapers.	Barbourville, Ky.
+sn84024546	Rook, O'Neil & Co.	Pittsburg dispatch.	http://sws.geonames.org/5206379/	Pittsburgh (Pa.)--Newspapers.	Pittsburg [Pa.]
+sn84026920	Charles H. Hall	The Orangeburg news.	http://dbpedia.org/resource/Orangeburg%2C_South_Carolina	Orangeburg County (S.C.)--Newspapers.	Orangeburg, S.C.
+sn84020096	Independent Association	The Independent.	http://sws.geonames.org/5856195/	Hawaii--Newspapers.	Honolulu, H.I.
+sn85047165	R. Grieve Pub. Co.	The Honolulu republican.	http://sws.geonames.org/5856195/	Hawaii--Newspapers.	Honolulu, T.H.
+sn88064630	J.M. Scanland	Natchitoches spectator.	http://dbpedia.org/resource/Natchitoches%2C_Louisiana		Natchitoches, La.
+sn84020109	R.W. Furnas	Nebraska advertiser.	http://dbpedia.org/resource/Brownville%2C_Nebraska		Brownville, Nemaha County, N.T. [Neb.]
+sn82016413	s.n.]	Evening bulletin.	http://dbpedia.org/resource/Honolulu%2C_Hawaii		Honolulu [Oahu, Hawaii
+sn83016810	Northwestern Pub. Co.	The appeal.	http://sws.geonames.org/5037649/	African Americans--Minnesota--Newspapers.	Saint Paul, Minn. ;
+sn94056446	Ross & Ray	The Falls City tribune	http://dbpedia.org/resource/Falls_City%2C_Nebraska	Falls City (Neb.)--Newspapers.	Falls City, Neb.
+sn2007058207	Union Print. Co.	Ohio valley worker : official paper of the Federated Trades Council of Louisville, Trades and Labor Council of New Albany, Central Labor Union of Jeffersonville.	http://sws.geonames.org/4299276/	Jefferson County (Ky.)--Newspapers.	[Louisville, Ky.]
+sn95073194	M.K. Turner & Co.	The Columbus journal.	http://dbpedia.org/resource/Columbus%2C_Nebraska	Columbus (Neb.)--Newspapers.	Columbus, Neb.
+sn84025890	Turner & Hamlin	The bee.		African Americans--Washington (D.C.)--Newspapers.	Washington, D.C.
+sn92070144	F.G. Havens	Imperial Valley press and the Imperial press.	http://dbpedia.org/resource/El_Centro%2C_California	Imperial Valley (Calif. and Mexico)--Newspapers.	El Centro, Calif.
+sn2004060008	R.S. Patterson	Safford rattler.	http://dbpedia.org/resource/Safford%2C_Arizona	Graham County (Ariz.)--Newspapers.	Safford, Ariz.
+sn85058273	N.H. Dresser	The Mercur miner.	http://dbpedia.org/resource/Mercur%2C_Utah		Mercur, Utah
+sn95047378	Edward Fitzgerald	The gazette-news.		Daytona (Fla.)--Newspapers.	Daytona, Fla.
+sn99021999	Edward Rosewater	Omaha daily bee.	http://dbpedia.org/resource/Omaha%2C_Nebraska	Omaha (Neb.)--Newspapers.	Omaha [Neb.]
+sn90061457	Frank Freytag, Jr.	The St. Joseph observer.	http://dbpedia.org/resource/Saint_Joseph%2C_Missouri	Buchanan County (Mo.)--Newspapers.	St. Joseph, Mo.
+sn96061149	D.C. Ireland	The Daily astorian.	http://sws.geonames.org/5711847/	Astoria (Or.)--Newspapers.	Astoria, Or.
+sn85058027	S.W. Ross & L.W. Gaisford	American Fork citizen.	http://sws.geonames.org/5844096/		American Fork, Utah
+sn88064478	Jno. Dickinson	Shreveport daily news.	http://sws.geonames.org/4341513/		Shreveport, La.
+sn85025371	William N. Nelson	Clarke courier.	http://dbpedia.org/resource/Berryville%2C_Virginia	Berryville (Va.)--Newspapers.	Berryville, Va.
+sn88085617	The Brotherhood	Industrial freedom.	http://dbpedia.org/resource/Edison%2C_Washington	Edison (Wash.)--Newspapers.	Edison, Wash.
+sn85052141	Warren & Martin	The Hickman courier.	http://dbpedia.org/resource/Hickman%2C_Kentucky	Hickman (Ky.)--Newspapers.	Hickman, Ky.
+sn85042462	Herald Pub. Co.	Los Angeles herald.	http://sws.geonames.org/5368361/	Los Angeles County (Calif.)--Newspapers.	Los Angeles [Calif.]
+sn82016339	Hilo Tribune Pub. Co.	Hilo tribune.	http://sws.geonames.org/5855927/		Hilo, Hawaii
+sn85047152	F. Austin]	Austin's Hawaiian weekly.	http://dbpedia.org/resource/Honolulu%2C_Hawaii	Hawaii--Periodicals.	Honolulu [Hawaii
+sn85038022	A.F. Curran	The public ledger.	http://dbpedia.org/resource/Maysville%2C_Kentucky	Maysville (Ky.)--Newspapers.	Maysville, Ky.
+sn82015130	National Republican Co.	The National Republican.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn85047059	Hui Hoolaha Nupepa Hawaii Holomua	Hawaii holomua.	http://sws.geonames.org/5856195/	Hawaii--Newspapers.	Honolulu
+sn86069849	Frankfort Print. Co.	Frankfort weekly news and roundabout.	http://sws.geonames.org/4292188/	Frankfort (Ky.)--Newspapers.	Frankfort, Ky.
+sn96093062	Lewis Paullin	Durant weekly news.	http://dbpedia.org/resource/Durant%2C_Oklahoma	Indian Territory--Newspapers.	Durant, Choctaw Nation, Indian Territory [Okla.]
+sn85052118	[s.n.]	The Paducah daily sun.	http://dbpedia.org/resource/Paducah%2C_Kentucky	Paducah (Ky.)--Newspapers.	Paducah, Ky.
+sn95047178	[s.n.]	The new enterprise.	http://dbpedia.org/resource/Madison%2C_Florida	Madison County (Fla.)--Newspapers.	Madison, Fla.
+sn95060914	Guardian Pub. Co.	Graham guardian.	http://sws.geonames.org/5312476/	Safford (Ariz.)--Newspapers.	Safford, Ariz.
+sn86069240	Morton Green	It.	http://sws.geonames.org/4297581/	Lawrenceburg (Ky.)--Newspapers.	Lawrenceburg, Ky.
+2007252175	[s.n.	The ranch.	http://sws.geonames.org/5816605/	Livestock--Washington (State)--Newspapers.	North Yakima, Wash.
+sn95047227	T. E. & Royal B. Child	The champion.	http://dbpedia.org/resource/Arcadia%2C_Florida	Bowling Green (Fla.)--Newspapers.	Arcadia, Fla.
+sn82014424	Evening Critic Pub. Co.	The Evening critic.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn84027621	Porter & Harding	The Ocala evening star.	http://sws.geonames.org/4166673/	Ocala (Fla.)--Newspapers.	Ocala, Fla.
+sn86069201	Cartwright & Landrum	The central record.	http://sws.geonames.org/4297354/	Garrard County (Ky.)--Newspapers.	Lancaster, Ky.
+sn88074142	John H. Oberly & Co.	The Cairo daily bulletin.	http://dbpedia.org/resource/Cairo%2C_Illinois	Cairo (Ill.)--Newspapers.	Cairo, Ill.
+sn86053572	W.J. Murtagh	Daily national Republican.		Washington (D.C.)--Newspapers.	Washington City [D.C.]
+sn88064237	James N. Turner	The Banner-Democrat.	http://dbpedia.org/resource/Lake_Providence%2C_Louisiana		Lake Providence, East Carroll Parish, La.
+sn88078751	Frank Harper	The Democratic banner.	http://dbpedia.org/resource/Mount_Vernon%2C_Ohio	Mount Vernon (Ohio)--Newspapers.	Mt. Vernon, Ohio
+sn84020558	Republican Pub. Co.	Arizona republican.	http://dbpedia.org/resource/Phoenix%2C_Arizona	Phoenix (Ariz.)--Newspapers.	Phoenix, Ariz.
+sn82016245	C.M. Funston	The Coconino sun.	http://sws.geonames.org/5294810/	Coconino County (Ariz.)--Newspapers.	Flagstaff, Ariz.
+sn83025287	H.P. Hall	Daily globe.	http://dbpedia.org/resource/Saint_Paul%2C_Minnesota	Saint Paul (Minn.)--Newspapers.	St. Paul, Minn.
+sn95047416	John G. Collins	The Weekly Tallahasseean.	http://sws.geonames.org/4174715/	Leon County (Fla.)--Newspapers.	Tallahassee, Fla.
+sn82016354	L. Schade	Washington sentinel.		Washington (D.C.)--Newspapers.	Washington City [D.C.]
+sn85058117	Salt Lake Democrat Co.	Salt Lake evening Democrat.	http://dbpedia.org/resource/Salt_Lake_City%2C_Utah		Salt Lake City, Utah
+sn95079154	W.C. Pendleton	Tazewell Republican.	http://dbpedia.org/resource/Tazewell%2C_Virginia	Tazewell (Va.)--Newspapers.	Tazewell, Va.
+sn85038120	Logan Print. and Pub. Co.	The Democrat-sentinel.	http://dbpedia.org/resource/Logan%2C_Ohio		Logan, Ohio
+sn85058246	N.R. Moore	The Logan Republican.	http://dbpedia.org/resource/Logan%2C_Utah		Logan, Utah
+sn99063952	Capital Journal Pub. Co.	Evening capital journal.	http://dbpedia.org/resource/Salem%2C_Oregon	Salem (Or.)--Newspapers.	Salem, Or.
+sn94050504	A.W. Howe	The Weekly orb.	http://sws.geonames.org/5284905/	Bisbee (Ariz.)--Newspapers.	Bisbee, Cochise County, Ariz. Territory
+sn84022109	J.W. Downs	The Waco daily examiner.	http://dbpedia.org/resource/Waco%2C_Texas	Waco (Tex.)--Newspapers.	Waco, Tex.
+sn86090049	Smith & Parsons	The San Angelo press.	http://dbpedia.org/resource/San_Angelo%2C_Texas		San Angelo, Tex.
+sn82000205	Evening Critic Pub. Co.	The Washington critic.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn85052114	Sun Pub. Co.	The Paducah evening sun.	http://sws.geonames.org/4048662/	Paducah (Ky.)--Newspapers.	Paducah, Ky.
+sn82015104	Sacramento Pub. Co.	The record-union.	http://sws.geonames.org/5389489/	Sacramento (Calif.)--Newspapers.	Sacramento, Calif.
+sn86069162	Climax Print. Co.	The Richmond climax.	http://sws.geonames.org/4305974/	Richmond (Ky.)--Newspapers.	Richmond, Ky.
+sn86071985	Johnston & Mills	Virginia gazette.	http://sws.geonames.org/4793846/	Williamsburg (Va.)--Newspapers.	Williamsburg, Va.
+sn88071004	Natchitoches Pub. Co.	The Louisiana populist.	http://dbpedia.org/resource/Natchitoches%2C_Louisiana		Natchitoches, Natchitoches Parish, La.
+sn87062054	C.M. Funston	The Coconino weekly sun.	http://sws.geonames.org/5294810/	Flagstaff (Ariz.)--Newspapers.	Flagstaff, Ariz.
+sn86069675	Harris and Mason	The Mt. Sterling advocate.	http://dbpedia.org/resource/Mount_Sterling%2C_Kentucky	Mount Sterling (Ky.)--Newspapers.	Mt. Sterling, Ky.
+sn87076916	Kinney, Nichols & Co.	Springfield globe-republic.	http://sws.geonames.org/4525353/	Springfield (Ohio)--Newspapers.	Springfield, Ohio
+sn85058406	Standard Pub. Co.	The Morning standard.	http://dbpedia.org/resource/Ogden%2C_Utah		Ogden, Utah
+sn83045487	N.D. Cochran	The day book.		Chicago (Ill.)--Newspapers.	Chicago, Ill.
+sn82016441	Weekly News Pub. Co.	The weekly news.		Washington (D.C.)--Newspapers.	Anacostia [i.e. Washington] D.C.
+sn95079220	J.D. Berry	Virginia citizen.	http://sws.geonames.org/4766169/	Irvington (Va.)--Newspapers.	Irvington, Va.
+46032385	William J. Bryan	The commoner.	http://sws.geonames.org/5072005/	Middle class--United States.	Lincoln, Neb.
+sn99063955	Hofer Bros.	Daily capital journal.	http://dbpedia.org/resource/Salem%2C_Oregon	Salem (Or.)--Newspapers.	Salem, Or.
+2010270501	T.J. O'Keefe	The Alliance herald.	http://dbpedia.org/resource/Alliance%2C_Nebraska	Box Butte County (Neb.)--Newspapers.	Alliance, Box Buttte County, Neb.
+sn82014402	Ringwalt, Hack & Co.	Daily critic.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn95069778	Robert B. Good	The Valentine Democrat	http://dbpedia.org/resource/Valentine%2C_Nebraska	Cherry County (Neb.)--Newspapers.	Valentine, Cherry Co., Neb.
+sn96060681	J.O. Dunbar	Tombstone daily epitaph.	http://dbpedia.org/resource/Tombstone%2C_Arizona	Cochise County (Ariz.)--Newspapers.	Tombstone, Ariz.
+sn84024055	Julius F. Taylor	The broad ax.	http://sws.geonames.org/5780993/	Salt Lake City (Utah)--Newspapers.	Salt Lake City, Utah
+sn96027724	Kilkoff & Dean	The Florida agriculturist.	http://sws.geonames.org/4160021/	Jacksonville (Fla.)--Newspapers.	DeLand, Fla.
+sn87082863	J.H. Hamill	Daily Arizona silver belt.	http://sws.geonames.org/5304640/	Globe (Ariz.)--Newspapers.	Globe, Gila County, Ariz.
+sn86086284	New Orleans Catholic Pub. Co.	The morning star and Catholic messenger.	http://sws.geonames.org/4335045/	Catholics--Louisiana--New Orleans--Newspapers.	New Orleans [La.]
+2007252185	[s.n.	Ranche and range.	http://dbpedia.org/resource/Spokane%2C_Washington	Agriculture--Northwest, Pacific--Newspapers.	North Yakima, Wash.
+sn86069396	Chas. M. Meacham	The daily Kentuckian.	http://dbpedia.org/resource/Hopkinsville%2C_Kentucky	Hopkinsville (Ky.)--Newspapers.	Hopkinsville, Ky.
+sn95079246	Mills & Jordan	Highland recorder.	http://dbpedia.org/resource/Monterey%2C_Virginia	Monterey (Va.)--Newspapers.	Monterey, Highland County, Va.
+sn94059373	[s.n.]	The Farmville herald.	http://sws.geonames.org/4758495/	Farmville (Va.)--Newspapers.	Farmville, Va.
+sn83016811	Parker, Burgett & Hardy	Western appeal.	http://sws.geonames.org/5045360/	Chicago (Ill.)--Newspapers.	Saint Paul, Minn.
+sn85047097	[s.n.]	The Independent.	http://sws.geonames.org/5856195/		Honolulu, H.I.
+sn88084272	Herald News Co.	El Paso herald.	http://sws.geonames.org/5520993/	El Paso (Tex.)--Newspapers.	El Paso, Tex.
+sn83030214	New York Tribune	New-York tribune.		New York County (N.Y.)--Newspapers.	New York [N.Y.]
+sn86090270	C. W. Ward	Shiner gazette.	http://dbpedia.org/resource/Shiner%2C_Texas	Shiner (Tex.)--Newspapers.	Shiner, Tex.
+sn85025008	E. Snowden, Jr. & W.F. Carne	The Local news.	http://sws.geonames.org/4744091/	Alexandria (Va.)--Newspapers.	Alexandria, Va.
+sn86063242	Spencer Cooper	The Hazel Green herald.	http://dbpedia.org/resource/Hazel_Green%2C_Kentucky	Hazel Green (Ky.)--Newspapers.	Hazel Green, Wolfe County, Ky.
+sn95069777	Farris & Hawkes	Cherry County independent	http://dbpedia.org/resource/Valentine%2C_Nebraska	Valentine (Neb.)--Newspapers.	Valentine, Cherry Co., Neb.
+sn84038328	Hilton & Campbell	The interior journal.	http://sws.geonames.org/4309487/	Lincoln County (Ky.)--Newspapers.	Stanford, Ky.
+sn85047239	[D. Logan]	The daily herald.	http://sws.geonames.org/5856195/	Hawaii--Newspapers.	Honolulu, Hawaiian Islands
+sn95047417	John G. Collins	The weekly true Democrat.	http://dbpedia.org/resource/Tallahassee%2C_Florida	Tallahassee (Fla.)--Newspapers.	Tallahassee, Fla.
+sn84020274	G. Knapp & Co.	The St. Louis Republic.		Saint Louis County (Mo.)--Newspapers.	St. Louis, Mo.
+sn86069667	J. Wise Hagins	Breathitt County news.	http://sws.geonames.org/4296081/	Breathitt County (Ky.)--Newspapers.	Jackson, Ky.
+sn84024670	Whittlesey & Gillis	The Daily state journal.	http://dbpedia.org/resource/Richmond%2C_Virginia	Richmond (Va.)--Newspapers.	Alexandria, Va.
+sn82016455	Clum, Sorin & Co.	The Tombstone epitaph.	http://dbpedia.org/resource/Tombstone%2C_Arizona	Tombstone (Ariz.)--Newspapers.	Tombstone, Ariz.
+sn84022835	C.L. Mather.	The Red Cloud chief.	http://dbpedia.org/resource/Red_Cloud%2C_Nebraska	Red Cloud (Neb.)--Newspapers.	Red Cloud, Webster Co., Neb.
+sn88083120	Geo. A. Pike & W.H. Crenshaw	Daily gazette and comet.	http://sws.geonames.org/4315588/	Baton Rouge (La.)--Newspapers.	Baton Rouge, La.
+sn88064165	M.G. Davis	The Carrollton sun.	http://dbpedia.org/resource/Carrollton%2C_Louisiana		City of Carrollton, Parish of Jefferson, La.
+sn86069125	Rosser & McCarthy	Evening bulletin.	http://sws.geonames.org/4300152/	Mason County (Ky.)--Newspapers.	Maysville [Ky.]
+sn84025811	Republican Pub. Co.	The Seattle Republican.	http://dbpedia.org/resource/Seattle%2C_Washington	African Americans--Washington (State)--Seattle--Newspapers.	Seattle, Wash.
+sn84028140	William B. and Russell T. Dobson	Akron daily Democrat.	http://dbpedia.org/resource/Akron%2C_Ohio		Akron, Ohio
+sn84021939	Clum, Sorin & Co.	The Tombstone epitaph.	http://sws.geonames.org/5317714/	Cochise County (Ariz.)--Newspapers.	Tombstone, Pima County, Ariz.
+sn98047754	[s.n.	The ranch.	http://dbpedia.org/resource/Kent%2C_Washington	Livestock--Washington (State)--Newspapers.	Seattle, Wash.
+sn95060905	Reppy & Peck	Tombstone epitaph.	http://dbpedia.org/resource/Tombstone%2C_Arizona	Cochise County (Ariz.)--Newspapers.	Tombstone, Ariz.
+sn85025007	Edgar Snowden	Alexandria gazette.	http://dbpedia.org/resource/Alexandria%2C_Virginia	Alexandria (Va.)--Newspapers.	Alexandria, D.C.
+sn96061150	J.F. Halloran & Co.	The Daily morning astorian.	http://dbpedia.org/resource/Astoria%2C_Oregon	Astoria (Or.)--Newspapers.	Astoria, Or.
+sn85058010	J.W. Carpenter	The union.			St. George, Utah
+sn82014159	The Hatchet Pub. Co.	The hatchet.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn92065612	Henry S. Farley	Straight-out democrat.	http://sws.geonames.org/4575352/	Columbia (S.C.)--Newspapers.	Columbia, S.C.
+sn86069180	William M. Higgins	Kentucky Irish American.	http://sws.geonames.org/4299276/	Irish Americans--Kentucky--Newspapers.	Louisville, Ky.
+sn85038615	Times-Dispatch Co.	The times dispatch.	http://dbpedia.org/resource/Richmond%2C_Virginia	Richmond (Va.)--Newspapers.	Richmond, Va.
+sn85058310	Truth Pub. Co.	Truth.	http://dbpedia.org/resource/Salt_Lake_City%2C_Utah		Salt Lake City, Utah
+sn84027005	J.A. Selby]	Tri-weekly phoenix.	http://dbpedia.org/resource/Columbia%2C_South_Carolina	Columbia (S.C.)--Newspapers.	[Columbia, S.C.
+sn95067647	Journal Pub. Co.	The Mathews journal.	http://sws.geonames.org/4771980/	Mathews (Va.)--Newspapers.	Mathews C.H. [Court House]
+sn88064460	Cal D. Hicks & G.G. Williams	The Progress.	http://dbpedia.org/resource/Shreveport%2C_Louisiana	Caddo Parish (La.)--Newspapers.	Shreveport, La.
+sn86088452	Geo. H. Hagan	San Saba County news.	http://sws.geonames.org/4726582/	San Saba (Tex.)--Newspapers.	San Saba, Tex.
+sn85058259	W.C. Higgins	Iron County record.	http://sws.geonames.org/5536630/		Cedar City, Utah
+sn87062228	Washington Critic Co.	The Critic and record.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn82016410	Holomua Pub. Co.	Hawaii holomua = Progress.	http://sws.geonames.org/5856195/	Hawaii--Newspapers.	Honolulu
+sn86069161	Climax Print. Co.	The climax.	http://sws.geonames.org/4305974/	Richmond (Ky.)--Newspapers.	Richmond, Madison County, Ky.
+sn85058130	W.C. Dunbar & E.L. Sloan]	The Salt Lake herald.	http://sws.geonames.org/5780993/	Salt Lake City (Utah)--Newspapers.	Salt Lake City [Utah
+sn88064181	J.O. Williams	The Caldwell watchman.	http://dbpedia.org/resource/Columbia%2C_Louisiana	Columbia (La.)--Newspapers.	Columbia, La.
+sn85058090	Lehi Pub. Co.	The Lehi banner.	http://dbpedia.org/resource/Lehi%2C_Utah		Lehi, Utah
+2010270512	Courier Pub. Co.	Saturday morning courier.	http://sws.geonames.org/5072005/	Lincoln (Neb.)--Newspapers.	Lincoln, Neb.
+sn95047263	C. Tharp & Co.	The Chipley banner.	http://sws.geonames.org/4150769/	Washington County (Fla.)--Newspapers.	Chipley, Washington County, Fla.
+2010218501	Tribune Pub. Co.	The Inter-mountain farmer.	http://sws.geonames.org/5780993/	Salt Lake City (Utah)--Newspapers.	Salt Lake City, Utah
+sn87090385	The News Co.	Waco evening news.	http://sws.geonames.org/4739526/		Waco, Tex.
+sn85058140	[Herald-Republican Pub. Co.]	The Salt Lake herald-Republican.	http://sws.geonames.org/5780993/		Salt Lake City, Utah
+sn83045211	Public Ledger Co.	Evening public ledger.		Philadelphia (Pa.)--Newspapers.	Philadelphia [Pa.]
+sn86069848	George A. Lewis	The Frankfort roundabout.	http://dbpedia.org/resource/Frankfort%2C_Kentucky	Franklin County (Ky.)--Newspapers.	Frankfort, Ky.
+sn96060682	Record Epitaph Pub. Co.	Daily Tombstone epitaph.	http://sws.geonames.org/5317714/	Tombstone (Ariz.)--Newspapers.	Tombstone, Ariz.
+sn86053712	L. Dupleix	The Semi-weekly Natchitoches times.	http://dbpedia.org/resource/Natchitoches%2C_Louisiana		Natchitoches, La.
+sn84028490	W. & G. Dunbar, Jr.	The Stark County Democrat.	http://sws.geonames.org/5149222/	Canton (Ohio)--Newspapers.	Canton, Ohio
+sn88064480	John Dickinson	Shreveport weekly news.	http://sws.geonames.org/4341513/		Shreveport, La.
+sn95070060	W. Huse & Son	The Norfolk weekly news	http://dbpedia.org/resource/Norfolk%2C_Nebraska	Norfolk (Neb.)--Newspapers.	Norfolk, Neb.
+sn85047211	A.M. Prescott]	The Honolulu times.	http://sws.geonames.org/5856195/	Hawaii--Newspapers.	Honolulu [Hawaii
+sn84027006	Julian A. Selby	Columbia phoenix.	http://dbpedia.org/resource/Columbia%2C_South_Carolina	Columbia (S.C.)--Newspapers.	Columbia, S.C.
+sn97070127	Democrat Pub. Co.	The daily democrat.	http://dbpedia.org/resource/Anadarko%2C_Oklahoma	Anadarko (Okla.)--Newspapers.	Anadarko, Okla.
+sn94052989	San Francisco Call Co.	The morning call.	http://dbpedia.org/resource/San_Francisco%2C_California	San Francisco (Calif.)--Newspapers.	San Francisco [Calif.]
+sn87093407	E.H. Wells & Co.	The Seattle star.	http://sws.geonames.org/5809844/	Seattle (Wash.)--Newspapers.	Seattle, Wash.
+sn83016716	David Young	The Concordia eagle.	http://dbpedia.org/resource/Vidalia%2C_Louisiana	Vidalia (La.)--Newspapers.	Vidalia, La.
+sn87093449	H.R. Cayton	The Daily Republican.	http://dbpedia.org/resource/Seattle%2C_Washington	Seattle (Wash.)--Newspapers.	Seattle, Wash.
+sn85058091	A.F. & E.R. Gaisford	The Lehi sun.	http://sws.geonames.org/5777224/		Lehi, Utah
+sn85038624	[s.n.]	The Norfolk post.	http://dbpedia.org/resource/Norfolk%2C_Virginia	Norfolk (Va.)--Newspapers.	Norfolk, Va.
+sn95047266	R. Don McLeod, Jr.	Gulf Coast breeze.	http://sws.geonames.org/4152267/	Wakulla County (Fla.)--Newspapers.	Crawfordville, Fla.
+sn85052021	E.C. Walton	The interior journal.	http://sws.geonames.org/4309487/	Lincoln County (Ky.)--Newspapers.	Stanford, Ky.
+sn88085769	Washington Socialist Pub. Co.	The Washington socialist.	http://dbpedia.org/resource/Everett%2C_Washington	Everett (Wash.)--Newspapers.	Everett, Wash.
+sn86091039	F. Nelson	The Utah County Democrat.	http://dbpedia.org/resource/Provo%2C_Utah		Provo City, Utah
+sn93067822	H.G. Sheridan and James L. Sims	The Orangeburg democrat.	http://dbpedia.org/resource/Orangeburg%2C_South_Carolina	Orangeburg County (S.C.)--Newspapers.	Orangeburg, S.C.
+sn83025729	R.C.O. Benjamin	The Lexington standard.	http://sws.geonames.org/4297983/	Lexington (Ky.)--Newspapers.	Lexington, Ky.
+sn86071158	Democrat Pub. Co.	Fort Worth gazette.	http://dbpedia.org/resource/Fort_Worth%2C_Texas	Fort Worth (Tex.)--Newspapers.	Fort Worth, Tex.
+sn86089977	Taylor & Taylor	The Jimplecute.	http://dbpedia.org/resource/Jefferson%2C_Texas	Jefferson (Tex.)--Newspapers.	Jefferson, Tex.
+sn88085187	Tacoma Times Pub. Co.	The Tacoma times.	http://dbpedia.org/resource/Tacoma%2C_Washington	Tacoma (Wash.)--Newspapers.	Tacoma, Wash.
+sn85034039	Chas. W. Bowman	The Holt County sentinel.	http://dbpedia.org/resource/Oregon%2C_Missouri		Oregon, Mo.
+sn85052117	Sun Pub. Co.	Paducah sun.	http://dbpedia.org/resource/Paducah%2C_Kentucky	McCracken County (Ky.)--Newspapers.	Paducah, Ky.
+sn88064439	W.H. Areaux	Natchitoches populist.	http://dbpedia.org/resource/Natchitoches%2C_Louisiana		Natchitoches, La.
+sn86069872	Bruce Champ	Semi-weekly Bourbon news.	http://sws.geonames.org/4303602/	Paris (Ky.)--Newspapers.	Paris, Ky.
+sn85032490	M.M. Murdock & R.D. Murdock	Wichita eagle.	http://dbpedia.org/resource/Wichita%2C_Kansas	Wichita (Kan.)--Newspapers.	Wichita, Kan.
+sn95047216	Sun Co.	The sun.	http://dbpedia.org/resource/Jacksonville%2C_Florida	Leon County (Fla.)--Newspapers.	Jacksonville, Fla.
+sn94060041	J.W. Edmonds	Peninsula enterprise.	http://dbpedia.org/resource/Accomac%2C_Virginia	Accomac (Va.)--Newspapers.	Accomac, Va.
+sn85058397	W. Glasmann	The Evening standard.	http://dbpedia.org/resource/Ogden%2C_Utah	Ogden (Utah)--Newspapers.	Ogden City, Utah
+sn85047264	[s.n.]	Daily Honolulu press.	http://sws.geonames.org/5856195/	Hawaii--Newspapers.	Honolulu, Hawaiian Islands
+sn99063954	Capital Journal Pub. Co.	Capital journal.	http://sws.geonames.org/5750162/	Salem (Or.)--Newspapers.	Salem, Or.
+sn85058028	W.D. Loveless	The Citizen.	http://sws.geonames.org/5844096/		American Fork, Utah
+sn86069458	S.M. Jenkins	Crittenden record=press.	http://dbpedia.org/resource/Marion%2C_Kentucky	Marion (Ky.)--Newspapers.	Marion, Ky.
+sn85052182	Sun Pub. Co.	The Sunday chat.	http://sws.geonames.org/4048662/	McCracken County (Ky.)--Newspapers.	Paducah, Ky.
+sn84024827	W.B. Kelly	Bisbee daily review.	http://dbpedia.org/resource/Bisbee%2C_Arizona	Cochise County (Ariz.)--Newspapers.	Bisbee, Ariz.
+sn85034357	James C. Nutty	Clinch Valley news.	http://sws.geonames.org/4788966/	Jeffersonville (Va.)--Newspapers.	Jeffersonville, Va.
+sn88085771	Pugent Press	The co-operative news.	http://sws.geonames.org/5793933/	Everett (Wash.)--Newspapers.	Everett, Wash.
+sn92062121	Chris O. Codrington	DeLand news.		Volusia County (Fla.)--Newspapers.	DeLand, Volusia County, Fla.
+sn83025060	Cimeter Pub. Co.	The Muskogee cimeter.	http://dbpedia.org/resource/Muskogee%2C_Oklahoma	Muskogee (Okla.)--Newspapers.	Muskogee, Indian Territory, Okla.
+sn88064479	Jno. Dickinson	Shreveport semi-weekly news.	http://dbpedia.org/resource/Shreveport%2C_Louisiana		Shreveport [La.]
+sn93066071	Lily and Dolly Wright	The Beaver herald.	http://dbpedia.org/resource/Beaver%2C_Oklahoma	Beaver County (Okla.)--Newspapers.	Beaver, O.T. [Okla.]
+sn88064054	Clyde S. Moss	Bogalusa enterprise.	http://dbpedia.org/resource/Bogalusa%2C_Louisiana		Bogalusa, La.
+sn88064481	Jno. Dickinson	Semi-weekly news.	http://sws.geonames.org/4341513/		Shreveport [La.]
+sn86069459	N.E. Calmes	Twice-a-week record-press.	http://dbpedia.org/resource/Marion%2C_Kentucky	Marion (Ky.)--Newspapers.	Marion, Ky.
+sn84026965	J.C.C. Featherston and James A. Hoyt	The Anderson intelligencer.	http://dbpedia.org/resource/Anderson%2C_South_Carolina	Anderson County (S.C.)--Newspapers.	Anderson Court House, S.C.
+sn83021447	Blair, Ferguson & Stout]	The Mountaineer.	http://dbpedia.org/resource/Salt_Lake_City%2C_Utah	Mormons--Utah--Newspapers.	Great Salt Lake City [Utah
+sn88064477	Jno. Dickinson	The Shreveport weekly news.	http://dbpedia.org/resource/Shreveport%2C_Louisiana		Shreveport, La.
+sn85058396	W. Glasmann	The Ogden standard.	http://dbpedia.org/resource/Ogden%2C_Utah		Ogden City, Utah
+sn85032573	Marshall M. Murdock	The Wichita city eagle.	http://dbpedia.org/resource/Wichita%2C_Kansas	Sedgwick County (Kan.)--Newspapers.	Wichita, Kan.
+sn95026701	Cricket Prewitt	Nassau County leader.		Nassau County (Fla.)--Newspapers.	Fernandina, Fla.
+sn84025731	Commonwealth Pub. Co.	The Commonwealth.	http://sws.geonames.org/5793933/	Everett (Wash.)--Newspapers.	Everett, Wash.
+sn84024442	Washington Times Co.	The morning times.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn89066315	Missourian Association	The Evening Missourian.	http://dbpedia.org/resource/Columbia%2C_Missouri	Boone County (Mo.)--Newspapers.	Columbia, Mo.
+sn87091222	J.E. Vernor	The San Saba weekly news.	http://sws.geonames.org/4726582/	San Saba (Tex.)--Newspapers.	San Saba, Tex.
+sn89077832	Republican Pub. Co.	The weekly republican.	http://dbpedia.org/resource/Phoenix%2C_Arizona	Phoenix (Ariz.)--Newspapers.	Phoenix, [Ariz.]
+sn96061148	D.C. Ireland	Tri-weekly astorian.	http://sws.geonames.org/5711847/	Astoria (Or.)--Newspapers.	Astoria, Or.
+2010270511	Courier Pub. Co.	Sunday morning courier.	http://sws.geonames.org/5072005/	Lincoln (Neb.)--Newspapers.	Lincoln, Neb.
+sn90059049	Edward Kaiser	The daily pioneer.	http://dbpedia.org/resource/Bemidji%2C_Minnesota	Bemidji (Minn.)--Newspapers.	Bemidji, Beltrami Co., Minn.
+sn85052076	T.G. Pasco	The citizen.	http://dbpedia.org/resource/Berea%2C_Kentucky	Berea (Ky.)--Newspapers.	Berea, Ky.
+sn83045789	M.M. Murdock & R.P. Murdcock	Wichita daily eagle.	http://dbpedia.org/resource/Wichita%2C_Kansas	Wichita (Kan.)--Newspapers.	Wichita, Kan.
+sn88064482	Jno. Dickinson	Shreveport weekly news.	http://dbpedia.org/resource/Shreveport%2C_Louisiana		Shreveport, La.
+sn86053570	W.J. Murtagh & Co.	Daily national Republican.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn88061179	C.M. Harris	The Big Stone Gap post.	http://sws.geonames.org/4747555/	Big Stone Gap (Va.)--Newspapers.	Big Stone Gap, Wise County, Va.
+sn94050506	Bisbee News Co.	Cochise review and Arizona daily orb.	http://sws.geonames.org/5284905/	Bisbee (Ariz.)--Newspapers.	Bisbee, Ariz.
+sn87062055	C.M. Funston	The Coconino sun.	http://sws.geonames.org/5294810/	Flagstaff (Ariz.)--Newspapers.	Flagstaff, Ariz.
+sn95047242	D.E. Godwin	The Gainesville star.	http://sws.geonames.org/4156404/	Alachua County (Fla.)--Newspapers.	Gainesville, Fla.
+sn85026941	Gatewood & Trout	Shenandoah herald.	http://sws.geonames.org/4794641/	Woodstock (Shenandoah County, Va.)--Newspapers.	Woodstock, Va.
+sn84024441	Washington Times Co.	The evening times.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn2008058170	Washington Critic Co.	The daily critic.		Washington (D.C.)--Newspapers.	Washington City, D.C.
+sn85058217	Times Pub. Co.	The Coalville times.	http://sws.geonames.org/5773066/		Coalville, Utah
+sn83016484	Jno. Dickinson	Shreveport semi-weekly news.	http://dbpedia.org/resource/Shreveport%2C_Louisiana		Shreveport, La.
+sn82000189	Washington Critic Co.	The Washington critic.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn99066033	Courier Pub. Co.	The courier.	http://dbpedia.org/resource/Lincoln%2C_Nebraska	Lincoln (Neb.)--Newspapers.	Lincoln, Neb.
+sn88064676	N.L. Miller	The Jennings daily record.	http://dbpedia.org/resource/Jennings%2C_Louisiana	Jennings (La.)--Newspapers.	Jennings, La.
+sn86063952	Roy Hoffman	The Guthrie daily leader.	http://dbpedia.org/resource/Guthrie%2C_Oklahoma	Logan County (Okla.)--Newspapers.	Guthrie, Okla.
+sn84036012	Standard Pub. Co.	The Anaconda standard.	http://dbpedia.org/resource/Anaconda%2C_Montana		Anaconda, Mont.
+sn84029838	W.C. Shinn	Dodge City times.	http://dbpedia.org/resource/Dodge_City%2C_Kansas	Dodge City (Kan.)--Newspapers.	Dodge City, Kan.
+sn94051168	Herbert T. Ezekiel	The Jewish South.	http://dbpedia.org/resource/Richmond%2C_Virginia	Jewish newspapers--United States.	Richmond, Va.
+sn90059523	[s.n.]	The Saint Paul globe.	http://dbpedia.org/resource/Saint_Paul%2C_Minnesota	Saint Paul (Minn.)--Newspapers.	St. Paul, Minn.
+sn84027691	D.R. Anthony	The Leavenworth weekly times.	http://sws.geonames.org/4274305/		Leavenworth, Kan.
+sn88064554	Lambert & Reese	West Feliciana sentinel.		Saint Francisville (La.)--Newspapers.	St. Francisville, La.
+sn86091022	Advocate Printing Co.	Eastern Utah advocate.	http://dbpedia.org/resource/Price%2C_Utah		Price, Utah
+sn88085770	Press Committee of the Socialist Party	The Northwest worker.	http://sws.geonames.org/5793933/	Socialism--Newspapers.	Everett, Wash.
+sn84026749	Times Pub. Co.	The Washington times.		Washington (D.C.)--Newspapers.	Washington [D.C.]
+2010270504	I.L. Bare	The North Platte semi-weekly tribune.	http://dbpedia.org/resource/North_Platte%2C_Nebraska	North Platte (Neb.)--Newspapers.	North Platte, Neb.
+sn84029386	Reflector Pub.	Abilene weekly reflector.	http://dbpedia.org/resource/Abilene%2C_Kansas		Abilene, Kan.
+sn86069133	Winchester News Co.	The Winchester news.	http://sws.geonames.org/4313697/	Winchester (Ky.)--Newspapers.	Winchester, Ky.
+sn82016187	G.E. Lemon & Co.	The national tribune.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn86069847	Claude Buckley	The Weekly roundabout.	http://dbpedia.org/resource/Frankfort%2C_Kentucky	Franklin County (Ky.)--Newspapers.	Frankfort, Ky.
+sn95069780	I.M. Rice	Valentine Democrat	http://dbpedia.org/resource/Valentine%2C_Nebraska	Cherry County (Neb.)--Newspapers.	Valentine, Neb.
+sn86071854	Times Pub. Co.	The Daily times.	http://dbpedia.org/resource/Richmond%2C_Virginia	Richmond (Va.)--Newspapers.	Richmond, Va.
+sn85058393	Standard-Examiner Pub. Co.	The Ogden standard-examiner.	http://dbpedia.org/resource/Ogden%2C_Utah	Ogden (Utah)--Newspapers.	Ogden, Utah
+sn96027172	Arthur B. Brosn	Fort Pierce news.	http://sws.geonames.org/4156018/	Saint Lucie County (Fla.)--Newspapers.	Fort Pierce, Fla.
+sn94055463	Robt. H. Miller	Custer County Republican	http://dbpedia.org/resource/Broken_Bow%2C_Nebraska	Custer County (Neb.)--Newspapers.	Broken Bow, Neb.
+sn87060189	Rosser & McCarthy	Daily evening bulletin.	http://sws.geonames.org/4300152/	Maysville (Ky.)--Newspapers.	Maysville [Ky.]
+sn82016408	H.A. Juen	The Democrat.	http://dbpedia.org/resource/Honolulu%2C_Hawaii	Honolulu (Hawaii)--Newspapers.	Honolulu, T.H.
+sn84038806	Herald Print. Co.	Los Angeles daily herald.	http://dbpedia.org/resource/Los_Angeles%2C_California	Los Angeles (Calif.)--Newspapers.	Los Angeles [Calif.]
+sn85032575	M.M. Murdock & Bro.	Wichita eagle.	http://dbpedia.org/resource/Wichita%2C_Kansas	Sedgwick County (Kan.)--Newspapers.	Wichita, Kan.
+sn97070124	Herndon Bros.	The daily democrat.	http://dbpedia.org/resource/Anadarko%2C_Oklahoma	Anadarko (Okla.)--Newspapers.	Anadarko, Okla.
+sn84030186	G.W. Kingsbury	The Smoky Hill and Republican union.	http://dbpedia.org/resource/Junction_City%2C_Kansas		Junction City, Kan.
+sn96027438	[s.n.]	The university news.	http://sws.geonames.org/4156404/	Alachua Countty (Fla.)--Newspapers.	Gainesville, Fla.
+sn96027213	News Pub. Co.	The daily news.	http://sws.geonames.org/4168228/	Escambia County (Fla.)--Newspapers.	Pensacola, Fla.
+sn87060190	Rosser & McCarthy	The evening bulletin.	http://sws.geonames.org/4300152/	Maysville (Ky.)--Newspapers.	Maysville, Ky.
+sn85058179	J.A. Wixom	The Garland globe.	http://sws.geonames.org/5775081/		Garland, Utah
+sn85042345	World Pub. Co.	The Morning Tulsa daily world.	http://dbpedia.org/resource/Tulsa%2C_Oklahoma	Tulsa County (Okla.)--Newspapers.	Tulsa, Okla.
+sn84027007	Julian A. Selby	The Columbia daily phoenix.	http://dbpedia.org/resource/Columbia%2C_South_Carolina	Columbia (S.C.)--Newspapers.	Columbia, S.C.
+sn89077833	T.J. Wolfley	Arizona weekly republican.	http://dbpedia.org/resource/Phoenix%2C_Arizona	Phoenix (Ariz.)--Newspapers.	Phoenix, Ariz.
+sn85058011	J.W. Carpenter	The St. George union.			St. George, Utah
+sn93059208	Edward Fitzgerald	The Daytona gazette=news.		Ormond (Fla.)--Newspapers.	Daytona, Fla.
+sn96080161	Morton Print. Co.	The Conservative		Social sciences--Periodicals.	Nebraska City, Neb.
+sn83025092	L.H. Roberts	The Branding iron.	http://dbpedia.org/resource/Atoka%2C_Oklahoma	Indian Territory (Okla.)--Newspapers.	Atoka, I.T. [Okla.]
+sn88085523	Reed & Coe	The Yakima herald.	http://sws.geonames.org/5816605/	Yakima (Wash.)--Newspapers.	North Yakima, W.T. [Wash.]
+sn86069873	Champ & Miller	The Bourbon news.	http://sws.geonames.org/4303602/	Bourbon County (Ky.)--Newspapers.	Paris, Ky.
+sn86071197	Houston Post Pub. Co.	The Houston daily post.	http://dbpedia.org/resource/Houston%2C_Texas	Houston (Tex.)--Newspapers.	Houston, Tex.
+sn95060900	S.C. Bagg	The Arizona kicker.	http://sws.geonames.org/5317714/	Cochise County (Ariz.)--Newspapers.	Tombstone, Ariz.
+sn89066652	Herald Print. Co.	The Missouri herald.	http://dbpedia.org/resource/Hayti%2C_Missouri		Hayti, Mo.
+sn86071254	Jefferson Pub. Co.	Jefferson jimplecute.	http://dbpedia.org/resource/Jefferson%2C_Texas	Jefferson (Tex.)--Newspapers.	Jefferson, Tex.
+sn93063916	Geo. F. Crouch	The Daytona daily news.	http://sws.geonames.org/4152872/	Volusia County (Fla.)--Newspapers.	Daytona, Fla.
+sn86063615	Journal Co.	Kansas City journal.	http://sws.geonames.org/4393217/	Kansas City (Mo.)--Newspapers.	Kansas City, Mo.
+sn94050505	A.W. Howe	The Arizona daily orb.	http://sws.geonames.org/5284905/	Cochise County (Ariz.)--Newspapers.	Bisbee, Ariz.
+sn89064695	Gus H. Beaulieu	The Tomahawk.	http://dbpedia.org/resource/White_Earth%2C_Minnesota	White Earth (Minn.)--Newspapers.	White Earth, Becker County, Minn.
+sn99063957	Hofer Bros.	Daily capital journal.	http://sws.geonames.org/5750162/	Salem (Or.)--Newspapers.	Salem, Or.
+sn2008058169	Washington Critic Co.	The Washington critic.		Washington (D.C.)--Newspapers.	Washington City, D.C.
+sn84029385	Strother Brothers	The Abilene reflector.	http://sws.geonames.org/4267354/	Abilene (Kan.)--Newspapers.	Abilene, Kan.
+sn85042303	John F. Easley	The Daily Ardmoreite.	http://dbpedia.org/resource/Ardmore%2C_Oklahoma	Carter County (Okla.)--Newspapers.	Ardmore, Okla.
+sn93068209	Herald Print. Co.	The Jewish herald.	http://dbpedia.org/resource/Houston%2C_Texas	Houston (Tex.)--Newspapers.	Houston, Tex.
+sn86075021	W.D. Knight	Daily Yellowstone journal.	http://dbpedia.org/resource/Miles_City%2C_Montana	Miles City (Mont.)--Newspapers.	Miles City, Mont.
+sn87093354	H.R. Cayton	Cayton's monthly.	http://dbpedia.org/resource/Seattle%2C_Washington	African Americans--Washington (State)--Seattle--Newspapers.	Seattle, Wash.
+sn84026355	Tribune Pub. Co.	The Scranton tribune.	http://dbpedia.org/resource/Scranton%2C_Pennsylvania	Scranton (Pa.)--Newspapers.	Scranton, Pa.
+sn88064176	H.G. Goodwyn	The Colfax chronicle.	http://dbpedia.org/resource/Colfax%2C_Louisiana		Colfax, Grant Parish, La.
+sn83045830	Daily Press Co.	Daily press.	http://sws.geonames.org/4776024/	Newport News (Va.)--Newspapers.	Newport News, Va.
+sn93067846	Watchman and Southron Pub. Co.	The watchman and southron.	http://dbpedia.org/resource/Sumter%2C_South_Carolina	Sumter County (S.C.)--Newspapers.	Sumter, S.C.
+sn90061052	Lynn Monroe	The Jasper news.	http://dbpedia.org/resource/Jasper%2C_Missouri		Jasper, Mo.
+sn95047371	Sun Co.	The morning sun.	http://dbpedia.org/resource/Tallahassee%2C_Florida	Leon County (Fla.)--Newspapers.	Tallahassee, Fla.
+sn86069561	James Maret	Mount Vernon signal.	http://sws.geonames.org/4301703/	Mount Vernon (Ky.)--Newspapers.	Mt. Vernon, Ky.
+sn86071134	Caller Pub. Co.	The Corpus Christi caller.	http://sws.geonames.org/4683416/		Corpus Christi, Tex.
+sn82015486	Sol. Miller	White Cloud Kansas chief.	http://dbpedia.org/resource/White_Cloud%2C_Kansas	White Cloud (Kan.)--Newspapers.	White Cloud, Kan.
+sn86069657	J. E. Burgher	The Clay City times.	http://sws.geonames.org/4287881/	Powell County (Ky.)--Newspapers.	Clay City, Ky.
+sn83040340	Allison & Perkins	The Iola register.	http://dbpedia.org/resource/Iola%2C_Kansas		Iola, Kan.
+2010218500	Tribune Pub. Co.	The Inter-mountain farmer and ranchman.	http://sws.geonames.org/5780993/	Salt Lake City (Utah)--Newspapers.	Salt Lake City, Utah
+97071090	Medford Mail Tribune	Medford mail tribune.	http://dbpedia.org/resource/Medford%2C_Oregon	Medford (Or.)--Newspapers.	Medford, Or.
+sn86079090	Thos.H. Manning	The Semi-weekly Shreveport news.	http://sws.geonames.org/4341513/		Shreveport [La.]
+sn85038614	Dispatch Co.	Richmond dispatch.	http://sws.geonames.org/4781708/	Richmond (Va.)--Newspapers.	Richmond, Va.
+sn88064057	J.W. O'Bryan	Abbeville progress.	http://dbpedia.org/resource/Abbeville%2C_Louisiana	Abbeville (La.)--Newspapers.	Abbeville, Vermilion Parish, La.
+sn83016758	R.C. Dunn	The Princeton union.	http://sws.geonames.org/5042360/	Princeton (Minn.)--Newspapers.	Princeton, Minn.
+sn82016246	A.E. Fay	The Arizona champion.	http://sws.geonames.org/5294810/	Flagstaff (Ariz.)--Newspapers.	Peach Springs, Mohave County, A.T. [Ariz.]
+sn94050513	The Bisbee News Co.	Cochise review.	http://sws.geonames.org/5284905/	Cochise County (Ariz.)--Newspapers.	Bisbee, Ariz.
+sn83025293	J. Buchanan	The Montana post.	http://sws.geonames.org/5656882/	Virginia City (Mont.)--Newspapers.	Virginia City, Montana Territory [i.e. Mont.]
+sn83025001	W.A. Eaton	Cheyenne transporter.		Indians of North America--Oklahoma--Newspapers.	Darlington, Indian Terr.
+sn88064118	B.D. Harrison	Claiborne guardian.	http://dbpedia.org/resource/Homer%2C_Louisiana		Homer, La.
+sn88064555	S. Lambert	Feliciana sentinel.		West Feliciana Parish (La.)--Newspapers.	St. Francisville, La.
+sn96096625	W.H. Mullen, et. al.	The Labor herald.	http://dbpedia.org/resource/Richmond%2C_Virginia	Working class--Virginia--Richmond--Newspapers.	Richmond, Va.
+sn84026912	W.H. Trimmier	Keowee courier.	http://dbpedia.org/resource/Walhalla%2C_South_Carolina	Pickens County (S.C.)--Newspapers.	Pickens Court House, S.C.
+sn95070058	W.N. Huse	The Norfolk weekly news-journal	http://dbpedia.org/resource/Norfolk%2C_Nebraska	Norfolk (Neb.)--Newspapers.	Norfolk, Neb.
+sn88085189	J.C. Wheeler	The islander.	http://dbpedia.org/resource/Friday_Harbor%2C_Washington	Friday Harbor (Wash.)--Newspapers.	Friday Harbor, Wash.
+2010270508	W.W. Sanders	The Nebraska advertiser.	http://dbpedia.org/resource/Nemaha%2C_Nebraska	Nebraska--Newspapers.	Nemaha City, Neb.
+sn84024716	Lafferty & Co.	Lexington gazette.	http://dbpedia.org/resource/Lexington%2C_Virginia	Lexington (Va.)--Newspapers.	Lexington, Va.
+sn88064499	G.W. McCranie	The Daily telegraph.	http://dbpedia.org/resource/Monroe%2C_Louisiana		Monroe, La.
+sn84026917	Gilbert & Richardson	The Sumter watchman.	http://dbpedia.org/resource/Sumter%2C_South_Carolina	Sumterville (S.C.)--Newspapers.	Sumterville, S.C.
+sn88064592	W.A. LeSueur	Louisiana capitolian.	http://dbpedia.org/resource/Baton_Rouge%2C_Louisiana	Baton Rouge (La.)--Newspapers.	Baton Rouge, La.
+sn82003389	E.W. Halsey	The Louisiana Democrat.	http://dbpedia.org/resource/Alexandria%2C_Louisiana	Alexandria (La.)--Newspapers.	Alexandria, La.
+sn96088246	W.C. Byrd	The Times-herald	http://sws.geonames.org/5716833/	Burns (Or.)--Newspapers.	Burns, Harney County, Or.
+sn99063812	Herald Pub. Co.	The Evening herald.	http://sws.geonames.org/5735238/	Klamath Falls (Or.)--Newspapers.	Klamath Falls, Or.
+sn86069309	John D. Babbage	The Breckenridge news.	http://dbpedia.org/resource/Hardinsburg%2C_Kentucky	Breckinridge County (Ky.)--Newspapers.	Cloverport, Ky.
+sn00063520	Wm. Plughoff	The Ontario Argus.	http://dbpedia.org/resource/Ontario%2C_Oregon	Ontario (Or.)--Newspapers.	Ontario, Or.
+sn88064119	C.W. Seals & J.R. Phipps	Homer guardian.	http://dbpedia.org/resource/Homer%2C_Louisiana		Homer, La.
+sn97070123	Shaw & Monroe	Anadarko daily democrat.	http://sws.geonames.org/4529353/	Anadarko (Okla.)--Newspapers.	Anadarko, Okla.
+sn86088527	The Caller Pub. Co.	Corpus Christi caller and daily herald.	http://dbpedia.org/resource/Corpus_Christi%2C_Texas		Corpus Christi, Tex.
+sn84025841	Planet Pub. Co.	Richmond planet.	http://dbpedia.org/resource/Richmond%2C_Virginia	African Americans--Virginia--Newspapers.	Richmond, Va.
+sn82015485	W.S. Tilton	Western Kansas world.	http://dbpedia.org/resource/WaKeeney%2C_Kansas		WaKeeney, Kan.
+sn95060903	S.C. Bagg	Tombstone prospector.	http://sws.geonames.org/5317714/	Cochise County (Ariz.)--Newspapers.	Tombstone, Ariz.
+sn86089407	E.W. Harris	The Greenville morning herald.	http://sws.geonames.org/4695066/		Greenville, Tex.
+sn85033413	John H. Oberly	The Cairo bulletin.	http://sws.geonames.org/4234985/	Cairo (Ill.)--Newspapers.	Cairo, Ill.
+sn84027640	G.D. Swearingen	The Big blue union.	http://sws.geonames.org/4275144/		Marysville, Kan.
+sn86088201	Hill & Ivy	The Waco evening news.	http://sws.geonames.org/4739526/		Waco, Tex.
+sn84025891	Bee Pub. Co.	The Washington bee.		African American newspapers--Washington (D.C.)	Washington, D.C.
+sn92070146	D.D. Pellet	Imperial Valley press.	http://dbpedia.org/resource/El_Centro%2C_California	San Diego County (Calif.)--Newspapers.	El Centro, Calif.
+sn87060049	Record Press	The record.	http://sws.geonames.org/4293477/	Muhlenberg County (Ky.)--Newspapers.	Greenville, Ky.
+sn85054468	W.S. Hutchins	The times.		Washington (D.C.)--Newspapers.	Washington [D.C.]
+sn83025010	Indian Chieftain Pub. Co.	Indian chieftain.	http://dbpedia.org/resource/Vinita%2C_Oklahoma	Indians of North America--Oklahoma--Newspapers.	Vinita, Indian Territory [Okla.]
+sn87093353	H.R. Cayton	Cayton's weekly.	http://sws.geonames.org/5809844/	Seattle (Wash.)--Newspapers.	Seattle, Wash.
+sn84021913	Hackney & Morehead	Arizona silver belt.	http://sws.geonames.org/5304640/	Miami (Ariz.)--Newspapers.	Globe City, Pinal County, Ariz.
+sn86064451	F.W. Kellogg	The San Francisco call and post.	http://dbpedia.org/resource/San_Francisco%2C_California	San Francisco (Calif.)--Newspapers.	San Francisco, Calif.
+sn86069620	T. J. Young	Owingsville outlook.	http://dbpedia.org/resource/Owingsville%2C_Kentucky	Owingsville (Ky.)--Newspapers.	Owingsville, Ky.
+sn88064402	J.R. Rountree	The Rice belt journal.	http://dbpedia.org/resource/Welsh%2C_Louisiana	Welsh (La.)--Newspapers.	Welsh, Calcasieu Parish, La.
+sn88064358	E.A. Mathis	The Comrade.	http://dbpedia.org/resource/Winnfield%2C_Louisiana		Winnfield, La.
+sn82015056	R.W. White	The national forum.		Washington (D.C.)--Newspapers.	Washington, D.C.
+sn85042682	John T. Halleck & Co.	The Sunday herald.		Washington (D.C.)--Newspapers.	Washington [D.C.]
+sn87075213	George M. Cooke	Marietta daily leader.	http://sws.geonames.org/4517586/		Marietta, Ohio
+sn87060165	The Free Lance Newspaper and Job Print. Co.	The free lance.	http://sws.geonames.org/4760059/	Fredericksburg (Va.)--Newspapers.	Fredericksburg, Va.
+sn86053227	Thad C. Andrews	Orangeburg news and times.	http://dbpedia.org/resource/Orangeburg%2C_South_Carolina	Orangeburg County (S.C.)--Newspapers.	Orangeburg, S.C.
+sn94050554	Jones and Jackson	The Flagstaff sun-democrat.	http://dbpedia.org/resource/Flagstaff%2C_Arizona	Cocnino County (Ariz.)--Newspapers.	Flagstaff, Ariz.
+sn87060150	Big Stone Post Pub. Co.	The Big Stone post.	http://sws.geonames.org/4747555/	Big Stone Gap (Va.)--Newspapers.	Big Stone Gap, Va.
+2010218505	Anderson Intelligencer	The intelligencer.	http://dbpedia.org/resource/Anderson%2C_South_Carolina	Anderson County (S.C.)--Newspapers.	Anderson, S.C.
+sn85058245	A. Jensen	The Spanish Fork press.	http://dbpedia.org/resource/Spanish_Fork%2C_Utah		Spanish Fork, Utah

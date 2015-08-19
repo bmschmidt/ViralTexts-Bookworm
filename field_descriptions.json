@@ -1,0 +1,14 @@
+[
+    {"field":"searchstring","datatype":"searchstring","type":"text","unique":true},
+    {"field":"chunk","datatype":"categorical","type":"integer","unique":true},
+    {"field":"name","datatype":"categorical","type":"character","unique":true},
+    {"field":"date","datatype":"time","type":"character","unique":true,"derived":[
+       {"resolution":"year"},
+       {"resolution":"month"},
+       {"resolution":"day"},
+       {"resolution":"day","aggregate":"year"},
+       {"resolution":"month","aggregate":"year"},
+       {"resolution":"week","aggregate":"year"}
+    ]
+    }
+]
